@@ -12,5 +12,5 @@ Test driving [Meteor](meteor).
 
 2. Run application
     
-    # in this directory
+    $ cd /path/to/here
     $ meteor
